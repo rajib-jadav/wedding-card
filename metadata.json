@@ -1,0 +1,6 @@
+{
+  "name": "Surojit & Priya — Wedding Invitation",
+  "description": "An interactive floral digital wedding invitation for Surojit Roy Chowdhury & Priya Sharma on 12 December 2026, with animated card reveal, couple gallery, direct Google Maps directions, and WhatsApp sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
