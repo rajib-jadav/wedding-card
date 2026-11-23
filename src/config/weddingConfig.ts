@@ -75,7 +75,7 @@ export interface WeddingDetails {
 
 export const DEFAULT_WEDDING_DETAILS: WeddingDetails = {
   groomName: 'Surojit Roy Chowdhury',
-  groomBengali: 'সুরজিৎ রায় চৌধুরী',
+  groomBengali: 'সুরোজিৎ রায় চৌধুরী',
   brideName: 'Ritwika Mondal',
   brideBengali: 'ঋত্বিকা মণ্ডল',
 
@@ -147,7 +147,7 @@ export const DEFAULT_WEDDING_DETAILS: WeddingDetails = {
   formalNote:
     'Respected Sir / Madam, by the grace of the Almighty and the warm blessings of our elders, the auspicious marriage of my youngest son, Surojit Roy Chowdhury, with Ritwika Mondal—beloved daughter of Shri Biswajit Mondal of Kolkata—will be solemnized on Sunday, 13 December 2026 (26th Agrahayan 1433). On this joyous occasion, we cordially request the honour of your presence with family at the Bodhuboron & Pritibhoj Reception on Tuesday, 15 December 2026 (28th Agrahayan 1433), evening onwards at our residence in Baropol, Madhyamgram. Your gracious presence and heartfelt blessings will make our celebration truly memorable.',
   formalNoteBn:
-    'মহাশয় / মহাশয়া, প্রজাপতি ঋষির আশীর্বাদে আগামী ২৬শে অগ্রহায়ণ ১৪৩৩ (ইং ১৩ই ডিসেম্বর ২০২৬) রবিবার আমার কনিষ্ঠ পুত্র কল্যাণীয় সুরজিৎ রায় চৌধুরীর সহিত কলকাতা নিবাসী শ্রীযুক্ত বিশ্বজিৎ মণ্ডলের কন্যা কল্যাণীয়া ঋত্বিকা মণ্ডলের শুভবিবাহ সুসম্পন্ন হইবে। এতদুপলক্ষে আগামী ২৮শে অগ্রহায়ণ ১৪৩৩ (ইং ১৫ই ডিসেম্বর ২০২৬) মঙ্গলবার সন্ধ্যার পর আমাদের বড়পোল, মধ্যমগ্রামস্থ নিজ বাসভবনে অনুষ্ঠিত প্রীতিভোজ ও বধূবরণ অনুষ্ঠানে আপনি সপরিবারে উপস্থিত থাকিয়া নবদম্পতিকে আশীর্বাদ প্রদান করিলে বাধিত থাকিব। পত্রদ্বারা নিমন্ত্রণের ত্রুটি মার্জনীয়।',
+    'মহাশয় / মহাশয়া, প্রজাপতি ঋষির আশীর্বাদে আগামী ২৬শে অগ্রহায়ণ ১৪৩৩ (ইং ১৩ই ডিসেম্বর ২০২৬) রবিবার আমার কনিষ্ঠ পুত্র কল্যাণীয় সুরোজিৎ রায় চৌধুরীর সহিত কলকাতা নিবাসী শ্রীযুক্ত বিশ্বজিৎ মণ্ডলের কন্যা কল্যাণীয়া ঋত্বিকা মণ্ডলের শুভবিবাহ সুসম্পন্ন হইবে। এতদুপলক্ষে আগামী ২৮শে অগ্রহায়ণ ১৪৩৩ (ইং ১৫ই ডিসেম্বর ২০২৬) মঙ্গলবার সন্ধ্যার পর আমাদের বড়পোল, মধ্যমগ্রামস্থ নিজ বাসভবনে অনুষ্ঠিত প্রীতিভোজ ও বধূবরণ অনুষ্ঠানে আপনি সপরিবারে উপস্থিত থাকিয়া নবদম্পতিকে আশীর্বাদ প্রদান করিলে বাধিত থাকিব। পত্রদ্বারা নিমন্ত্রণের ত্রুটি মার্জনীয়।',
 };
 
 export interface CeremonyEvent {

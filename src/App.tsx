@@ -102,7 +102,7 @@ export default function App() {
 
   const groomFirst = getFirstName(details.groomName) || 'Surojit';
   const brideFirst = getFirstName(details.brideName) || 'Ritwika';
-  const groomFirstBn = details.groomBengali.split(' ')[0] || 'সুরজিৎ';
+  const groomFirstBn = details.groomBengali.split(' ')[0] || 'সুরোজিৎ';
   const brideFirstBn = details.brideBengali.split(' ')[0] || 'ঋত্বিকা';
 
   const handleCopyAddress = async () => {
@@ -802,6 +802,7 @@ export default function App() {
                   <RotateCcw className="w-3.5 h-3.5" aria-hidden="true" />
                   <span>{isBn ? 'কার্ড পুনরায় দেখুন' : 'Replay Opening'}</span>
                 </button>
+                {/*
                 <button
                   type="button"
                   onClick={() => setIsCustomizeOpen(true)}
@@ -817,6 +818,7 @@ export default function App() {
                 >
                   {isBn ? 'গুগল ম্যাপ' : 'Google Maps'}
                 </a>
+                */}
               </div>
             </div>
           </footer>

@@ -18,7 +18,7 @@ export function FinalThankYouSection({ details, lang }: FinalThankYouSectionProp
   const isBn = lang === 'bn';
   const groomFirst = getFirstName(details.groomName) || 'Surojit';
   const brideFirst = getFirstName(details.brideName) || 'Ritwika';
-  const groomFirstBn = details.groomBengali.split(' ')[0] || 'সুরজিৎ';
+  const groomFirstBn = details.groomBengali.split(' ')[0] || 'সুরোজিৎ';
   const brideFirstBn = details.brideBengali.split(' ')[0] || 'ঋত্বিকা';
 
   return (
